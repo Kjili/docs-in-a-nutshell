@@ -4,6 +4,13 @@ docs-in-a-nutshell :chestnut:
 
 (User) Documentation in a nutshell gathered by hungry squirrels and the like. This is just about the process of creating your docs, for help on initiating, planning and maintaining docs please refer to the `Sources`_ or search engines. If you don't feel lazy maybe you want to go directly to the `Sources`_ and gather your own pile of knowledge. If you do feel lazy, let the following list guide you:
 
+User vs. Developer Documentation
+--------------------------------
+
+There are two types of documentation: user documentation and developer (process/contributor) documentation. A user documentation is written for different groups of users to enable them to use the product, e.g. normal users and system administrators. Developer documentation is written for developers and contributors to enable them to quickly understand and develop for the product and is usually a lot more technical than user documentation. A definition for technical writers is given `here <https://en.wikiversity.org/wiki/Technical_writing_Types_of_User_Documentation>`_. Usually, the two types of documentation are clearly separated from each other by two seperate websites or a top-level menu.
+
+All of the following hints address user documentation, some can be applied to developer documentation as well.
+
 On writing your docs
 --------------------
 
