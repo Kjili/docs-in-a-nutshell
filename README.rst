@@ -153,7 +153,9 @@ Get inspiration here https://github.com/PharkMillups/beautiful-docs and in the:
 Tools
 -----
 
-`Sphinx <http://www.sphinx-doc.org/en/stable/>`_ is a nice tool for exporting documentation written in plain text files with markup languages like reStructuredText in which this document is written in. If you decide to use it along with reStructuredText, do check out their `CheatSheet <http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_.
+`Sphinx <http://www.sphinx-doc.org/en/stable/>`_ is a nice tool for exporting documentation written in plain text files with markup languages like reStructuredText in which this document is written in. If you decide to use it along with reStructuredText, check out their `CheatSheet <http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_.
+
+It comes with a `list of powerful extensions <https://sphinxext-survey.readthedocs.io/en/latest/>`_ and a large user base.
 
 Sources
 -------
