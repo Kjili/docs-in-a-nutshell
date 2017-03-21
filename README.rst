@@ -18,7 +18,7 @@ On writing your docs
 
   ..
   
-    "levels--key achievement milestones with clear rewards--are more motivating than just, 'here you go... keep going.'" [3]_
+    "levels -- key achievement milestones with clear rewards -- are more motivating than just, 'here you go... keep going.'" [3]_
     
     "While level one is about completing tasks -- the user is just trying to get something done correctly and safely--level two is about improving overall skill and knowledge. [...]
     For a software app, this could be general reminders and tips. For a programmer, this might be design patterns and best-practice idioms, etc." [3]_
@@ -148,7 +148,7 @@ On writing your docs
   Test spelling and grammar. Do user tests.
 
 
-Get inspiration here https://github.com/PharkMillups/beautiful-docs and in the:
+Get inspiration here https://github.com/PharkMillups/beautiful-docs, from the `Sources`_ and maybe here http://docs.godotengine.org/en/stable/.
 
 Tools
 -----
